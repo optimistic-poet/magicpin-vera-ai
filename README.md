@@ -2,6 +2,12 @@
 
 Production-ready, deterministic backend solution for the **Magicpin Vera AI Challenge**. Vera is an intelligent merchant and customer engagement engine exposed as an asynchronous FastAPI microservice.
 
+## 🌐 Live API
+
+**Production:** https://magicpin-vera-ai-0cm2.onrender.com
+
+**Health Check:** https://magicpin-vera-ai-0cm2.onrender.com/v1/healthz
+
 ---
 
 ## 1. Key Architectural Highlights
